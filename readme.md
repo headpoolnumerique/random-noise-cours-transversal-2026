@@ -4,7 +4,7 @@
 **2025–26 semèstre de printemps**  
 **Vendredis, 14:30 – 17:30**  
 
-![Random Noise Cover Image](https://vjnks.com/media/pages/projects/latent-intimacies/e958333890-1758787222/latent_intimacies_cats.jpg)
+![Random Noise Cover Image](https://github.com/headpoolnumerique/random-noise-cours-transversal-2025/blob/main/cover.png)
 
 ---
 
