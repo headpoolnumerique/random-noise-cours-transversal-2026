@@ -51,7 +51,8 @@ Un mini site web
 ### Cours #1 – Introduction / HTML-CSS #1
 - **Tour de table**  
 - Exemples du Net Art   
-- HTML/CSS#1   
+- HTML/CSS#1
+  [CODE HTML/CSS](https://github.com/headpoolnumerique/random-noise-cours-transversal-2026/tree/main/cours%231)    
   [SLIDES COURS #1](https://docs.google.com/presentation/d/1863bZCkJmnVY7lQ7coOjfWvAoYXXguGECbcl3lwj_X4/edit?usp=sharing)
 
 ### Cours #2 – HTML-CSS #2 
