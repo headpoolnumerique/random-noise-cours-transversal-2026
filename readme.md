@@ -48,71 +48,39 @@ Un mini site web
 
 ## SYLLABUS:
 
-### Cours #1 – Introduction 
+### Cours #1 – Introduction / HTML-CSS #1
 - **Tour de table**  
 - Exemples du Net Art   
-- HTML/CSS#1 
+- HTML/CSS#1   
   [SLIDES COURS #1](https://docs.google.com/presentation/d/1863bZCkJmnVY7lQ7coOjfWvAoYXXguGECbcl3lwj_X4/edit?usp=sharing)
 
-### Cours #2 – Bases de programmation  
+### Cours #2 – HTML-CSS #2 
+ 
+- HTML/CSS#2  
+**Exercise individuel : HTML ZINE**  
 
-**Points abordés :**  
-- Formes de base
-- setup() – draw()
-  — Syntaxe
-  — random()    
-  [SKETCH EXEMPLE](https://editor.p5js.org/poolnumerique/sketches/DnVJA_BJZ)    
-
-### Cours #3 – Bases de programmation  
-**Théorie :**    
-- Différents langages de programmation    
-  [SLIDES COURS #3](https://docs.google.com/presentation/d/16v50H5dUXNeV6YOd9Y36bSW2Lhuz6QdvQ6qiFCd2z00/edit?usp=sharing)    
+### Cours #3 – Bases de P5.JS 
+- Revue d'exercice  
+- P5.JS variables ; Opérateurs       
          
+### Cours #4 – P5.JS 
+- Opérateurs combinés  
+- Conditions
+- Image, vidéo, son  
 
-**Points abordés :**    
-- Variables  
-- Opérateurs  
-- Conditions    
-  [SKETCH EXEMPLE : CONDITIONEMENT](https://editor.p5js.org/poolnumerique/sketches/ZDaRAv0wV)    
-- Image
-- Typographie    
-  [SKETCH EXEMPLE : IMAGE–TYPO](https://editor.p5js.org/poolnumerique/sketches/8_jjuMCCs)
-  
-### Cours #4 – Bases de programmation  
-**Points abordés :**  
-- Tableaux (Arrays)
-- Dictionaires (Objects) et listes (Arrays)    
-  [SKETCH EXEMPLE : LISTES & DICTIONAIRES](https://editor.p5js.org/poolnumerique/sketches/iwChSOQlM)    
-- Boucle for + liste    
-  [SKETCH EXEMPLE : FOR-ARRAY](https://editor.p5js.org/poolnumerique/sketches/dFSVIz-m8)    
+### Cours #5 – P5.JS 
+- Fontions  
 
-### Cours #5 – Bases de programmation  
-**Points abordés :**    
-- Recap   
-[SLIDES COURS #5](https://docs.google.com/presentation/d/1XW4Lyvyomy7pzuyUvhFU4qqdmCz9hnFw_rOa_Yg-lZQ/edit?usp=sharing)
-- Fonctions    
-  [SKETCH EXEMPLE : FONCTIONS](https://editor.p5js.org/poolnumerique/sketches/mMXpiCsyD)
-  
-- **Évaluation : Exercice**  
+### Cours #6 – P5.JS 
+- Classes
+- Système de particules  
+**Exercise individuel : SKETCH P5**  
 
-### Cours #6 – API  
-**Points abordés :**  
-- Intégration des API dans p5.js  
+### Cours #7 – IA / THREE.JS 
+- Revue d'exercice  
+- Bonnes pratiques de l’IA pour le code  
+- Aperçu sur la librairie three.js  
 
-### Cours #7 – HTML – CSS – Text Editor  
-**Points abordés :**  
-- Bases de HTML – CSS 
-- Introduction à Github
-- API dans p5.js 
+### Cours #8 #9 — Laboratoire  
 
- [MATÉRIEL ABORDÉ](https://github.com/headpoolnumerique/random-noise-cours-transversal/tree/main/Cours7)
-
-### Cours #8 – HTML – CSS – Github  
-**Points abordés :**  
-- Bases de HTML – CSS #2  
-
-### Cours #9 – HTML – CSS – Github (LAB)  
-
-### Cours #10 – HTML – CSS – Github (LAB)  
-
-### Cours #11 – Présentation Finale  
+### Cours #10 – Présentation Finale  
