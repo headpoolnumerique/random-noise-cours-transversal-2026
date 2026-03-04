@@ -49,9 +49,11 @@ Un mini site web
 ## SYLLABUS:
 
 ### Cours #1 – Introduction / HTML-CSS #1
-- **Tour de table**  
+- Tour de table
 - Exemples du Net Art   
 - HTML/CSS#1
+
+**Ressources**  
   [CODE HTML/CSS](https://github.com/headpoolnumerique/random-noise-cours-transversal-2026/tree/main/cours%231)    
   [SLIDES COURS #1](https://docs.google.com/presentation/d/1863bZCkJmnVY7lQ7coOjfWvAoYXXguGECbcl3lwj_X4/edit?usp=sharing)
 
