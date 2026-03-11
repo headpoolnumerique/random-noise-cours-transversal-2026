@@ -46,3 +46,63 @@ body {
   font-family: Diskus;
 }
 ```
+
+## 4) L’unité ```rem```
+
+```
+body { font-size: 2rem; }
+#scroll { font-size: 3rem; }
+```
+
+rem = taille relative à la taille de police de base du document (souvent celle de html).  
+En général, une typo chargée de base dans un CSS vaut 16px :  
+- 1rem ≈ 16px
+- 2rem ≈ 32px
+- 3rem ≈ 48px
+
+## 5) ```min-height``` et l’unité ```vh```
+
+```
+body {
+  min-height: 100vh;
+}
+```
+
+vh = viewport height → 1vh = 1% de la hauteur de la fenêtre.  
+100vh = la hauteur complète de l’écran (visible dans le navigateur).  
+min-height: 100vh signifie : “Le body doit faire au minimum la hauteur de l’écran.”  
+Même si le contenu est court, le layout occupe tout l’espace vertical.  
+
+## 6) ```display: flex```
+
+```
+body { display: flex; }
+section { display: flex; }
+.colones { display: flex; }
+```
+
+```display: flex``` active le mode Flexbox sur un conteneur.  
+Ses enfants directs deviennent des éléments flexibles :  
+- alignables
+- distribuables
+- faciles à mettre en colonnes/lignes.
+
+## 7) ```flex: 1```
+
+```
+.colones { flex: 1; }
+.colone { flex: 1; }
+```
+
+flex: 1 veut dire : “prends ta part de l’espace disponible”.  
+Sur plusieurs éléments frères, flex: 1 les rend de taille égale.  
+
+Exemple mental :  
+Si .colones contient 2 .colone avec flex: 1 :  
+chaque colonne prend 50% de la largeur disponible.  
+
+S’il y en a 3 :  
+chacune prend ≈ 33%.  
+
+—
+
