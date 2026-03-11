@@ -11,7 +11,7 @@
 }
 ```
 
-* cible tous les éléments de la page (body, titres, paragraphes, images, etc.).  
+Le * cible tous les éléments de la page (body, titres, paragraphes, images, etc.).  
 Ici, on “remet à zéro” les marges (margin) et espacements internes (padding) par défaut des navigateurs.  
 
 
