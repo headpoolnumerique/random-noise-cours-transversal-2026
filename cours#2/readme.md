@@ -25,16 +25,6 @@ Ici, on “remet à zéro” les marges (margin) et espacements internes (paddin
 }
 ```
 
-## 3) Importer une police : @font-face  
-
-```
-@font-face {
-  font-family: Diskus;
-  src: url(Diskus.ttf);
-  font-weight: regular;
-}
-```
-
 @font-face permet d’utiliser une police personnalisée (non installée sur l’ordinateur).  
 font-family: Diskus; → nom “interne” qu'on va réutiliser dans le CSS.  
 src: url(Diskus.ttf); → chemin vers le fichier de police.  
@@ -47,7 +37,7 @@ body {
 }
 ```
 
-## 4) L’unité ```rem```
+## 3) L’unité ```rem```
 
 ```
 body { font-size: 2rem; }
@@ -60,7 +50,7 @@ En général, une typo chargée de base dans un CSS vaut 16px :
 - 2rem ≈ 32px
 - 3rem ≈ 48px
 
-## 5) ```min-height``` et l’unité ```vh```
+## 4) ```min-height``` et l’unité ```vh```
 
 ```
 body {
@@ -73,7 +63,7 @@ vh = viewport height → 1vh = 1% de la hauteur de la fenêtre.
 min-height: 100vh signifie : “Le body doit faire au minimum la hauteur de l’écran.”  
 Même si le contenu est court, le layout occupe tout l’espace vertical.  
 
-## 6) ```display: flex```
+## 5) ```display: flex```
 
 ```
 body { display: flex; }
@@ -87,7 +77,7 @@ Ses enfants directs deviennent des éléments flexibles :
 - distribuables
 - faciles à mettre en colonnes/lignes.
 
-## 7) ```flex: 1```
+## 6) ```flex: 1```
 
 ```
 .colones { flex: 1; }
