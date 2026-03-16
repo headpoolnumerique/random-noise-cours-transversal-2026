@@ -68,7 +68,7 @@ Un mini site web
 - HTML/CSS#3
 - P5.JS intro ; Opérateurs
   **Ressources**  
-  [SKETCH P5.JS](https://editor.p5js.org/poolnumerique/sketches/2HWNnUhRf))
+  [SKETCH P5.JS](https://editor.p5js.org/poolnumerique/sketches/2HWNnUhRf)
   
          
 ### Cours #4 – P5.JS 
