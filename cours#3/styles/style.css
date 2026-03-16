@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: Diskus;
+    src: url(Diskus.ttf);
+    font-weight: regular;
+}
+
+body {
+    background-color:aquamarine;
+    display: flex;
+    font-size: 2rem;
+    flex-direction: column;
+    min-height: 100vh;
+    font-family: Diskus;
+    letter-spacing: 1rem;
+}
+
+header {
+    height: 100px;
+}
+
+section{
+    display: flex;
+    background-color: burlywood;
+}
+
+.colones{
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    justify-content: space-around;
+}
+
+.colone{
+    flex: 1;
+}
+
+.whatever{
+    display: flex;
+    flex: 1;
+    background-color: lightgray;
+}
+
+.whatever .colone{
+    color: coral;
+}
+
+footer {
+    background-color: red;
+
+}
+
+#scroll{
+    background-color: blueviolet;
+    font-size: 3rem;
+}
+
+#lazy_cat{
+    width: auto;
+    z-index: 1;
+    max-width: 100%;
+}
+
+#another_lazy_cat{
+    position: fixed;
+    width: auto;
+    z-index: 2;
+}
+
