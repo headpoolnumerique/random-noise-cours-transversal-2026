@@ -72,7 +72,7 @@ Un mini site web
   
          
 ### Cours #4 – P5.JS 
-— Revue de zines
+— **Revue de zines**
 - Variables ; Opérateurs
 - Conditions
 
