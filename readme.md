@@ -53,20 +53,22 @@ Un mini site web
 - Exemples du Net Art   
 - HTML/CSS#1
 
-**Ressources**  
+  **Ressources**  
   [CODE HTML/CSS](https://github.com/headpoolnumerique/random-noise-cours-transversal-2026/tree/main/cours%231)    
   [SLIDES COURS #1](https://docs.google.com/presentation/d/1863bZCkJmnVY7lQ7coOjfWvAoYXXguGECbcl3lwj_X4/edit?usp=sharing)
 
 ### Cours #2 – HTML-CSS #2 
  
 - HTML/CSS#2  
-**Exercise individuel : HTML ZINE**  
+**Exercise individuel : HTML ZINE**
+  
   **Ressources**  
   [CODE HTML/CSS](https://github.com/headpoolnumerique/random-noise-cours-transversal-2026/tree/main/cours%232)  
 
 ### Cours #3 – Bases de P5.JS 
 - HTML/CSS#3
-- P5.JS intro ; Opérateurs  
+- P5.JS intro ; Opérateurs
+  
   **Ressources**   
   [SKETCH P5.JS](https://editor.p5js.org/poolnumerique/sketches/2HWNnUhRf)  
   
