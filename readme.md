@@ -54,7 +54,7 @@ Un mini site web
 - HTML/CSS#1
 
   **Ressources**  
-  [CODE HTML/CSS](https://github.com/headpoolnumerique/random-noise-cours-transversal-2026/tree/main/cours%231)    
+  [CODE HTML/CSS#1](https://github.com/headpoolnumerique/random-noise-cours-transversal-2026/tree/main/cours%231)    
   [SLIDES COURS #1](https://docs.google.com/presentation/d/1863bZCkJmnVY7lQ7coOjfWvAoYXXguGECbcl3lwj_X4/edit?usp=sharing)
 
 ### Cours #2 – HTML-CSS #2 
@@ -63,15 +63,15 @@ Un mini site web
 **Exercise individuel : HTML ZINE**
   
   **Ressources**  
-  [CODE HTML/CSS](https://github.com/headpoolnumerique/random-noise-cours-transversal-2026/tree/main/cours%232)  
+  [CODE HTML/CSS#2](https://github.com/headpoolnumerique/random-noise-cours-transversal-2026/tree/main/cours%232)  
 
 ### Cours #3 – Bases de P5.JS 
 - HTML/CSS#3
 - P5.JS intro
   
-  **Ressources**   
-  [SKETCH P5.JS](https://editor.p5js.org/poolnumerique/sketches/2HWNnUhRf)  
-  
+  **Ressources**
+  [CODE HTML/CSS#3](https://github.com/headpoolnumerique/random-noise-cours-transversal-2026/tree/main/cours%233)  
+  [SKETCH P5.JS](https://editor.p5js.org/poolnumerique/sketches/2HWNnUhRf)
          
 ### Cours #4 – P5.JS 
 — **Revue de zines**
