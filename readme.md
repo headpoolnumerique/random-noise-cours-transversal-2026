@@ -69,7 +69,7 @@ Un mini site web
 - HTML/CSS#3
 - P5.JS intro
   
-  **Ressources**
+  **Ressources**  
   [CODE HTML/CSS#3](https://github.com/headpoolnumerique/random-noise-cours-transversal-2026/tree/main/cours%233)  
   [SKETCH P5.JS](https://editor.p5js.org/poolnumerique/sketches/2HWNnUhRf)
          
