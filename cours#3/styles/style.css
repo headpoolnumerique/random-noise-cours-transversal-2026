@@ -40,13 +40,13 @@ section{
     flex: 1;
 }
 
-.whatever{
+.bloc-en-bas{
     display: flex;
     flex: 1;
     background-color: lightgray;
 }
 
-.whatever .colone{
+.bloc-en-bas .colone{
     color: coral;
 }
 
