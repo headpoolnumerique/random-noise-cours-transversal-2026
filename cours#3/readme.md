@@ -1,12 +1,9 @@
-# README — Compléments CSS (designers débutants)
+# Recap cours HTML/CSS#3
 
-Ce document complète l’explication précédente en se concentrant sur 4 notions vues dans le CSS du projet.
 
 ---
 
 ## 1) `box-sizing: border-box;` dans `* { }`
-
-Dans ton fichier :
 
 ```css
 * {
@@ -28,15 +25,13 @@ Le mettre dans `* { }` applique cette règle à tous les éléments, pour une mi
 
 ## 2) `.bloc-en-bas .colone` : indentation et précision (sélecteur descendant)
 
-Dans ton fichier :
-
 ```css
 .bloc-en-bas .colone {
   color: coral;
 }
 ```
 
-Ce sélecteur se lit comme suit :
+Ce sélecteur se lit :
 
 - Cible tous les éléments ayant la classe `.colone`
 - Uniquement s’ils sont à l’intérieur d’un élément `.bloc-en-bas` (descendant, pas forcément enfant direct)
@@ -57,8 +52,6 @@ Ici, la section `.colone` est bien dans `.bloc-en-bas`, donc elle reçoit `color
 
 ## 3) `z-index: 1` et `z-index: 2`
 
-Dans ton fichier :
-
 ```css
 #lazy_cat {
   z-index: 1;
@@ -76,13 +69,11 @@ Dans ton fichier :
 - Ici, un élément à `z-index: 2` est au-dessus d’un élément à `z-index: 1`.
 
 Point important : `z-index` fonctionne surtout quand l’élément est “positionné” (par exemple `position: relative`, `absolute`, `fixed`, `sticky`).  
-Dans ton CSS, `#another_lazy_cat` est `position: fixed`, donc son `z-index` s’applique clairement.
+`#another_lazy_cat` est en `position: fixed`, donc son `z-index` s’applique clairement.
 
 ---
 
 ## 4) `max-width: 100%`
-
-Dans ton fichier :
 
 ```css
 #lazy_cat {
@@ -95,7 +86,7 @@ Dans ton fichier :
 - L’élément ne dépassera jamais la largeur de son conteneur.
 - Si le conteneur rétrécit (écran plus petit), l’image rétrécit aussi, au lieu de déborder.
 
-C’est une règle simple pour éviter les mises en page cassées sur mobile.
+C’est une règle simple pour éviter les mises en page cassées dans le design responsif.
 
 ---
 
