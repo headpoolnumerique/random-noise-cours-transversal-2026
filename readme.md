@@ -80,6 +80,7 @@ Un mini site web
 
   **Ressources**  
   [SKETCH P5.JS](https://editor.p5js.org/poolnumerique/sketches/-PdTP_fYx)
+  [EXPLICATION DÉTAILLÉ](https://github.com/headpoolnumerique/random-noise-cours-transversal-2026/blob/main/cours%234/readme.md)
 
 ### Cours #5 – P5.JS 
 - Image, vidéo, son  
