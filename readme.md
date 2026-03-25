@@ -68,7 +68,7 @@ Un mini site web
 ### Cours #3 – Bases de P5.JS 
 - HTML/CSS#3
 - P5.JS intro
-  
+
   **Ressources**  
   [CODE HTML/CSS#3](https://github.com/headpoolnumerique/random-noise-cours-transversal-2026/tree/main/cours%233)  
   [SKETCH P5.JS](https://editor.p5js.org/poolnumerique/sketches/2HWNnUhRf)
@@ -77,6 +77,9 @@ Un mini site web
 — **Revue de zines**
 - Variables ; Opérateurs
 - Conditions
+
+  **Ressources**  
+  [SKETCH P5.JS](https://editor.p5js.org/poolnumerique/sketches/-PdTP_fYx)
 
 ### Cours #5 – P5.JS 
 - Image, vidéo, son  
