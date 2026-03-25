@@ -1,4 +1,4 @@
-Cours #4 — P5.JS —> VARIABLES / OPÉRATEURS / CONDITIONELS 
+# Cours #4 — P5.JS —> VARIABLES / OPÉRATEURS / CONDITIONELS 
 
 ---
 
@@ -26,7 +26,6 @@ let jeRetourne = false;
 | Nombre entier | `let speed = 1;` | Un chiffre, sans virgule |
 | Nombre décimal | `let x = 3.14;` | Un chiffre avec virgule (le point est la virgule en JS) |
 | Booléen | `let jeRetourne = false;` | Seulement `true` ou `false` |
-| Chaîne de texte | `fill("blue");` | Du texte entre guillemets |
 
 ### Variables locales vs globales
 
