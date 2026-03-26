@@ -83,8 +83,8 @@ Un mini site web
   [EXPLICATION DÉTAILLÉ](https://github.com/headpoolnumerique/random-noise-cours-transversal-2026/blob/main/cours%234/readme.md)  
 
 ### Cours #5 – P5.JS 
+- Fonctions ; objets  
 - Image, typo (autres contenus AV)  
-- Fonctions  
 
 ### Cours #6 – P5.JS 
 - Classes
