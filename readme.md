@@ -84,7 +84,11 @@ Un mini site web
 
 ### Cours #5 – P5.JS 
 - Fonctions ; objets  
-- Image, typo (autres contenus AV)  
+- Image, typo (autres contenus AV)
+
+  **Ressources**  
+  [SKETCH P5.JS : FONCTIONS](https://editor.p5js.org/poolnumerique/sketches/gObZYlpbu)  
+  [EXPLICATION DÉTAILLÉ : FONCTIONS + IMPORT MULTIMÉDIA](https://github.com/headpoolnumerique/random-noise-cours-transversal-2026/blob/main/cours%234/readme.md)  
 
 ### Cours #6 – P5.JS 
 - Classes
