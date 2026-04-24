@@ -92,8 +92,8 @@ Un mini site web
   [EXPLICATION DÉTAILLÉ : FONCTIONS + IMPORT MULTIMÉDIA](https://github.com/headpoolnumerique/random-noise-cours-transversal-2026/blob/main/cours%234/readme.md)  
 
 ### Cours #6 – P5.JS 
-- Classes
-- Système de particules  
+- Tableaux, objets  
+- boucle FOR  
 **Exercise individuel : SKETCH P5**  
 
 ### Cours #7 – IA / THREE.JS 
