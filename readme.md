@@ -99,7 +99,7 @@ Un mini site web
   **Ressources**   
   [SKETCH P5.JS : BOUCLE FOR](https://editor.p5js.org/poolnumerique/sketches/nVkSqjHgT)  
   [SKETCH DEMO P5.JS : SLIDER/BOUTON](https://editor.p5js.org/poolnumerique/sketches/aNmVyf__T)  
-  [EXPLICATION DÉTAILLÉ : FONCTIONS + IMPORT MULTIMÉDIA](https://github.com/headpoolnumerique/random-noise-cours-transversal-2026/blob/main/cours%234/readme.md)  
+  [EXPLICATION DÉTAILLÉ : BOUCLES FOR + TABLEAUX / OBJETS + SLIDER / BOUTON](https://github.com/headpoolnumerique/random-noise-cours-transversal-2026/blob/main/cours%236/readme.md)  
 
 ### Cours #7 – IA / THREE.JS 
 - Revue d'exercice  
