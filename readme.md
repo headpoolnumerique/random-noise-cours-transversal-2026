@@ -89,7 +89,7 @@ Un mini site web
   **Ressources**  
   [SKETCH P5.JS : FONCTIONS](https://editor.p5js.org/poolnumerique/sketches/gObZYlpbu)  
   [SKETCH DEMO P5.JS : IMAGE/TYPO](https://editor.p5js.org/poolnumerique/sketches/66yTOjI14)  
-  [EXPLICATION DÉTAILLÉ : FONCTIONS + IMPORT MULTIMÉDIA](https://github.com/headpoolnumerique/random-noise-cours-transversal-2026/blob/main/cours%234/readme.md)  
+  [EXPLICATION DÉTAILLÉ : FONCTIONS + IMPORT MULTIMÉDIA](https://github.com/headpoolnumerique/random-noise-cours-transversal-2026/blob/main/cours%235/readme.md)  
 
 ### Cours #6 – P5.JS 
 - Tableaux, objets  
