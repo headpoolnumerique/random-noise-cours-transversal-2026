@@ -101,10 +101,11 @@ Un mini site web
   [SKETCH DEMO P5.JS : SLIDER/BOUTON](https://editor.p5js.org/poolnumerique/sketches/aNmVyf__T)  
   [EXPLICATION DÉTAILLÉ : BOUCLES FOR + TABLEAUX / OBJETS + SLIDER / BOUTON](https://github.com/headpoolnumerique/random-noise-cours-transversal-2026/blob/main/cours%236/readme.md)  
 
-### Cours #7 – IA / THREE.JS 
+### Cours #7 – IA / GITHUB
 - Revue d'exercice  
 - Bonnes pratiques de l’IA pour le code  
-- Aperçu sur la librairie three.js  
+- Intégration du p5js dans du HTML
+- Publication d'un site sur GitHub
 
 ### Cours #8 #9 — Laboratoire  
 
