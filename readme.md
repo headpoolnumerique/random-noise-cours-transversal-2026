@@ -93,7 +93,8 @@ Un mini site web
 
 ### Cours #6 – P5.JS 
 - Tableaux, objets  
-- boucle FOR  
+- boucle FOR
+- Slider, bouton  
 **Exercise individuel : SKETCH P5**
 
   **Ressources**   
