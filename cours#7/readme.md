@@ -129,10 +129,6 @@ function draw() {
 
 Le conteneur `<div id="canvas-conteneur">` se comporte comme n'importe quel élément HTML. On peut le styliser dans `style.css` pour contrôler sa position, ses dimensions, ses marges, etc.
 
-### Exemples courants
-
-**Centrer le canvas horizontalement :**
-
 ```css
 #canvas-conteneur {
   display: flex;
@@ -140,33 +136,6 @@ Le conteneur `<div id="canvas-conteneur">` se comporte comme n'importe quel él�
   margin: 2rem 0;
 }
 ```
-
-**Ajouter une bordure et un fond :**
-
-```css
-#canvas-conteneur {
-  border: 2px solid black;
-  background-color: #f0f0f0;
-  padding: 1rem;
-  width: fit-content;
-  margin: 0 auto;
-}
-```
-
-**Limiter la largeur et laisser le canvas déborder proprement :**
-
-```css
-#canvas-conteneur {
-  max-width: 100%;
-  overflow: hidden;
-}
-
-#canvas-conteneur canvas {
-  display: block; /* supprime l'espace sous le canvas (comportement inline par défaut) */
-}
-```
-
-> Le sélecteur `#canvas-conteneur canvas` cible directement la balise `<canvas>` générée par p5.js à l'intérieur du conteneur. C'est utile pour supprimer les marges parasites ou forcer des dimensions.
 
 ---
 
@@ -181,5 +150,3 @@ Le conteneur `<div id="canvas-conteneur">` se comporte comme n'importe quel él�
 | 5 | Styliser le conteneur | Dans `style.css` avec le sélecteur `#id` |
 
 ---
-
-*Référence : sketch.js — Random Noise, cours #7*
