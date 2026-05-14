@@ -107,10 +107,9 @@ Un mini site web
 - Bonnes pratiques de l’IA pour le code  
 - Intégration du p5js dans du HTML
 - Publication d'un site sur GitHub
-  **Ressources**   
+  **Ressources**
+  [IMPORTER UN SKETCH P5 DANS UNE PAGE HTML](https://github.com/headpoolnumerique/random-noise-cours-transversal-2026/blob/main/cours%237/readme.md)     
   [PUBBLIER UN SITE SUR GITHUB PAGES](https://www.youtube.com/watch?v=hNRxn5sKOdE)  
-  [IMPORTER UN SKETCH P5 DANS UNE PAGE HTML](https://github.com/headpoolnumerique/random-noise-cours-transversal-2026/blob/main/cours%237/readme.md)  
-
 
 ### Cours #8 #9 — Laboratoire  
 
